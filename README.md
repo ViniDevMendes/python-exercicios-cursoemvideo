@@ -3,8 +3,7 @@
 Esse repositório contém os exercícios que estou fazendo durante o curso de Python do Gustavo Guanabara (Curso em Vídeo).
 Estou usando ele pra treinar lógica de programação e ir melhorando aos poucos com os exercícios do curso.
 
-📚 O que tem aqui
-Os exercícios estão separados por módulos:
+📚 Os exercícios estão separados por módulos:
 
 🟢 Mundo 1
 - Lógica básica de programação
